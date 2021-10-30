@@ -1,6 +1,6 @@
 ### Hey there :relieved:
 
-I am a JavaScript engineer. I enjoy the universe of software development and want to improve my skills, learn software development best practices and think as a senior developer.
+I am a JavaScript engineer. I enjoy the universe of software development and I am working to improve my skills, learn software development best practices and think as a senior developer.
 
 #### :hammer: I'm currently enhancing my skills on:
 <div align="left" valign="top"><br>
