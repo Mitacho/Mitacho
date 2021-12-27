@@ -1,4 +1,4 @@
-### Hey there :relieved:
+### 안녕 :relieved:
 
 I am a JavaScript engineer. I enjoy the universe of software development and I am working to improve my skills, learn software development best practices and think as a senior developer.
 
