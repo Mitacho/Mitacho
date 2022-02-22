@@ -1,7 +1,3 @@
-### 안녕하세요 :relieved:
-
-I am a JavaScript engineer. I enjoy the universe of software development and I am working to improve my skills, learn software development best practices and think as a senior developer.
-
 #### :hammer: I'm currently enhancing my skills on:
 <div align="left" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
