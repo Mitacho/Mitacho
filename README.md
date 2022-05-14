@@ -12,7 +12,7 @@
                                        const greetings = () => "안녕하세요";
 ```
 
-<table>
+<table align="center">
 <tr>
 <th>
 
