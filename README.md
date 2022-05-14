@@ -1,29 +1,83 @@
-#### :hammer: I'm currently enhancing my skills on:
-<div align="left" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<!--   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png"> -->
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="FreeBSD" height="30" width="30" src="https://seeklogo.com/images/F/freebsd-logo-542DF4765A-seeklogo.com.png">
-</div><br>
+<h1 align="center">About me<a href="#"><img width="100" height="auto" src="https://c.tenor.com/KCMlPdCHBcQAAAAi/hello-hi.gif" alt="Annyeong"></a></h1>
 
-#### 🌱 I'm currently learning in my spare time:
-<div align="left" valign="top"><br>
-  
-  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-</div><br>
+<p align="center">JavaScript Engineer</p>
 
-#### :books: I intend to resume my studies on:
-<div align="left" valign="top"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="GTK" height="30" width="30" src="https://www.gtk.org/assets/img/logo-gtk-sm.png">
-</div><br>
+<p align="center">
+<a href="https://www.linkedin.com/in/arthurflv/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"></a>
+<a href="https://twitter.com/Mitacho_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter"></a>
+</p>
+
+#
+   
+```javascript
+                                       const greetings = () => "안녕하세요";
+```
+
+<table>
+<tr>
+<th>
+
+    FRONTEND
+</th>
+<th>
+
+    BACKEND
+</th>
+<th>
+
+    DATABASES
+</th>
+<th>
+
+    MOBILE
+</th>
+<th>
+
+    LANGUAGES
+</th>
+<th>
+
+    TOOLS
+</th>
+</tr>
+
+<tr>
+   
+<!--- FRONTEND --->
+<td align="center">
+<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" alt="ReactJS" title="ReactJS"></a>
+<a href="#"><img alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
+</td>
+   
+<!--- BACKEND --->
+<td align="center">
+<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node.JS" title="Node.JS"></a>
+<a href="#"><img alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"></a>
+</td>
+   
+<!--- DATABASES --->
+<td align="center">
+<a href="#"><img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
+<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg" alt="MongoDB" title="MongoDB"></a>
+</td>
+   
+<!--- MOBILE --->
+<td align="center">
+<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" alt="React Native" title="React Native"></a>
+</td>
+   
+<!--- LANGUAGES --->
+<td align="center">
+<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" alt="JavaScript" title="JavaScript"></a>
+<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg" alt="TypeScript" title="TypeScript"></a>
+</td>
+
+<!--- TOOLS --->
+<td align="center">
+<a href="#"><img alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
+<a href="#"><img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+<a href="#"><img alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
+</td>
+   
+</table>
+
