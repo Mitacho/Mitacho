@@ -7,10 +7,6 @@
 </p>
 
 #
-   
-```javascript
-                                       const greetings = () => "안녕하세요";
-```
 
 <table align="center">
 <tr>
